@@ -214,6 +214,15 @@
         <mxCell id="0vb944mvBpbHNHZJIUae-87" value="Supplier" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="193" y="2370" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-92" value="&lt;div&gt;Summary Data&lt;br&gt;&lt;/div&gt;&lt;div&gt;Individual Summary Data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="777" y="2100" width="223" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-93" value="Profit / Loss ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1770" width="223" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-94" value="Profit / Loss ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="807" y="1360" width="223" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
