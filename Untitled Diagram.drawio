@@ -131,6 +131,9 @@
             <mxPoint x="1160" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-68" value="&lt;ol style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Date&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Buy Bags&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Export Bags&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Swap Bags&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Remain Bags&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Remark&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2040" width="240" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
