@@ -37,8 +37,8 @@
         <mxCell id="0vb944mvBpbHNHZJIUae-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cP0VO7rM4Eh250nShlnv-4" target="cP0VO7rM4Eh250nShlnv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cP0VO7rM4Eh250nShlnv-4" value="Daily Cash" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="40" y="854" width="80" height="40" as="geometry" />
+        <mxCell id="cP0VO7rM4Eh250nShlnv-4" value="Daily Cash Flow" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="40" y="854" width="100" height="56" as="geometry" />
         </mxCell>
         <mxCell id="0vb944mvBpbHNHZJIUae-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3tPWJdc0TDrSjA-nD9r-2" target="0vb944mvBpbHNHZJIUae-38">
           <mxGeometry relative="1" as="geometry" />
