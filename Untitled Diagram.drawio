@@ -7,6 +7,12 @@
         <mxCell id="y3tPWJdc0TDrSjA-nD9r-1" value="Goods Ledger" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="830" y="580" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3tPWJdc0TDrSjA-nD9r-3" target="0vb944mvBpbHNHZJIUae-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3tPWJdc0TDrSjA-nD9r-3" target="0vb944mvBpbHNHZJIUae-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y3tPWJdc0TDrSjA-nD9r-3" value="Trade Ledger" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="30" y="1380" width="100" height="40" as="geometry" />
         </mxCell>
@@ -64,11 +70,20 @@
         <mxCell id="0vb944mvBpbHNHZJIUae-42" value="&lt;ol style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Date&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Description&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Supplier&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Type&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Bags&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Viss&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Price&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Weight&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Actual Total&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Total&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Remark&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="944" width="240" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="0vb944mvBpbHNHZJIUae-47" value="Trade Ledger" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="0vb944mvBpbHNHZJIUae-47" value="Buy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="1300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0vb944mvBpbHNHZJIUae-49" value="Trade Ledger" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="0vb944mvBpbHNHZJIUae-49" value="Sell" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="1460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-50" value="&lt;ol style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Date&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Buyer&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Type&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Car Number&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Bags&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Weight&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Price&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Total Weight&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Total&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Reject&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Transfer Amount&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Remain Amount&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Bank&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Commission&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Transaction Fees&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Other&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Remark&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1241" width="240" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0vb944mvBpbHNHZJIUae-49" target="0vb944mvBpbHNHZJIUae-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.01;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0vb944mvBpbHNHZJIUae-47" target="0vb944mvBpbHNHZJIUae-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
