@@ -220,8 +220,11 @@
         <mxCell id="0vb944mvBpbHNHZJIUae-93" value="Profit / Loss ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="760" y="1770" width="223" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0vb944mvBpbHNHZJIUae-94" value="Profit / Loss ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="0vb944mvBpbHNHZJIUae-94" value="&lt;div&gt;Profit / Loss ?&lt;/div&gt;&lt;div&gt;Good&#39;s Avg Sell price&lt;/div&gt;&lt;div&gt;Good&#39;s Avg Buy price&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="807" y="1360" width="223" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-95" value="&lt;div&gt;Profit / Loss ?&lt;/div&gt;&lt;div&gt;Good&#39;s Avg Sell price&lt;/div&gt;&lt;div&gt;Good&#39;s Avg Buy price&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="820" y="844" width="223" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
