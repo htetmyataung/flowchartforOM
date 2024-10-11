@@ -159,6 +159,46 @@
         <mxCell id="0vb944mvBpbHNHZJIUae-75" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="30" width="490" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-76" value="Cash Flow" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="87" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="680" as="sourcePoint" />
+            <mxPoint x="240" y="680" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-78" value="Trade Data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="84" y="1229" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37" y="1269" as="sourcePoint" />
+            <mxPoint x="237" y="1269" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-80" value="Car Data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="86" y="1680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="39" y="1720" as="sourcePoint" />
+            <mxPoint x="239" y="1720" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-82" value="Car Data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="87" y="2060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0vb944mvBpbHNHZJIUae-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="2100" as="sourcePoint" />
+            <mxPoint x="240" y="2100" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
