@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0vb944mvBpbHNHZJIUae-82" value="Inventory Management" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="87" y="2060" width="100" height="40" as="geometry" />
+          <mxGeometry x="93" y="2060" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0vb944mvBpbHNHZJIUae-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
